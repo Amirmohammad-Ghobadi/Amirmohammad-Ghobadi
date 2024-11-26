@@ -1,5 +1,19 @@
 # Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%234B0082.svg?style=flat&logo=css3&logoColor=white&labelColor=4B0082&color=white&borderRadius=50%) ![HTML5](https://img.shields.io/badge/html5-%234B0082.svg?style=flat&logo=html5&logoColor=white&labelColor=4B0082&color=white&borderRadius=50%) ![Java](https://img.shields.io/badge/java-%234B0082.svg?style=flat&logo=openjdk&logoColor=white&labelColor=4B0082&color=white&borderRadius=50%) ![PHP](https://img.shields.io/badge/php-%234B0082.svg?style=flat&logo=php&logoColor=white&labelColor=4B0082&color=white&borderRadius=50%) ![Python](https://img.shields.io/badge/python-4B0082?style=flat&logo=python&logoColor=ffdd54&labelColor=4B0082&color=ffdd54&borderRadius=50%) ![Bash Script](https://img.shields.io/badge/bash_script-%234B0082.svg?style=flat&logo=gnu-bash&logoColor=white&labelColor=4B0082&color=white&borderRadius=50%) ![Laravel](https://img.shields.io/badge/laravel-%234B0082.svg?style=flat&logo=laravel&logoColor=white&labelColor=4B0082&color=white&borderRadius=50%) ![Apache](https://img.shields.io/badge/apache-%234B0082.svg?style=flat&logo=apache&logoColor=white&labelColor=4B0082&color=white&borderRadius=50%) ![MySQL](https://img.shields.io/badge/mysql-4B0082.svg?style=flat&logo=mysql&logoColor=white&labelColor=4B0082&color=white&borderRadius=50%) ![SQLite](https://img.shields.io/badge/sqlite-%234B0082.svg?style=flat&logo=sqlite&logoColor=white&labelColor=4B0082&color=white&borderRadius=50%) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-4B0082.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white&labelColor=4B0082&color=white&borderRadius=50%) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%234B0082.svg?style=flat&logo=adobe%20photoshop&logoColor=white&labelColor=4B0082&color=white&borderRadius=50%) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-4B0082.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white&labelColor=4B0082&color=white&borderRadius=50%) ![Docker](https://img.shields.io/badge/docker-%234B0082.svg?style=flat&logo=docker&logoColor=white&labelColor=4B0082&color=white&borderRadius=50%) ![Postman](https://img.shields.io/badge/Postman-4B0082?style=flat&logo=postman&logoColor=white&labelColor=4B0082&color=white&borderRadius=50%)
+![CSS3](https://i.imgur.com/gL28OVa.png)
+![HTML5](https://i.imgur.com/sfT5Ujt.png)
+![Java](https://i.imgur.com/J0ocQbH.png)
+![PHP](https://i.imgur.com/7vj3MBs.png)
+![Python](https://i.imgur.com/f8Exwv9.png)
+![Bash Script](https://i.imgur.com/j7OfgKY.png)
+![Laravel](https://i.imgur.com/Ji89g3W.png)
+![Apache](https://i.imgur.com/X2oTo7v.png)
+![MySQL](https://i.imgur.com/2vDqDzn.png)
+![SQLite](https://i.imgur.com/jdxVpiy.png)
+![Adobe Acrobat Reader](https://i.imgur.com/4RyyF1a.png)
+![Adobe Photoshop](https://i.imgur.com/0cDhMKw.png)
+![Adobe Premiere Pro](https://i.imgur.com/5mltToq.png)
+![Docker](https://i.imgur.com/gUBdDdy.png)
+![Postman](https://i.imgur.com/kRjfvlt.png)
 
 # About Me:
 I am currently working on website back-end development.<br><br>Interested in algorithm concepts, database structure, and teamwork.<br><br>Fun fact about me: a back-end developer who loves front-end development!
@@ -14,3 +28,4 @@ I am currently working on website back-end development.<br><br>Interested in alg
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Amirmohammad-Ghobadi&icon=0&color=0)](https://visitcount.itsvg.in)
+
