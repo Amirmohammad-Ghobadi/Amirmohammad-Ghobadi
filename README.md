@@ -1,5 +1,5 @@
 # Tech Stack:
-![CSS3](https://i.imgur.com/gL28OVa.png)
+![CSS3](https://raw.githubusercontent.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/refs/heads/main/imgg.png)
 ![HTML5](https://i.imgur.com/sfT5Ujt.png)
 ![Java](https://i.imgur.com/J0ocQbH.png)
 ![PHP](https://i.imgur.com/7vj3MBs.png)
