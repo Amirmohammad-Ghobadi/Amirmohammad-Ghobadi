@@ -1,37 +1,54 @@
 # Tech Stack:
 
-<!-- CSS and HTML code for each tech stack -->
+<!-- PHP -->
 <div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
   <span style="color: #4B0082; font-weight: bold;">PHP</span>
 </div>
+
+<!-- SQLite -->
 <div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
   <span style="color: #4B0082; font-weight: bold;">SQLite</span>
 </div>
+
+<!-- Python -->
 <div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
   <span style="color: #4B0082; font-weight: bold;">Python</span>
 </div>
+
+<!-- Java -->
 <div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
   <span style="color: #4B0082; font-weight: bold;">Java</span>
 </div>
+
+<!-- Laravel -->
 <div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
   <span style="color: #4B0082; font-weight: bold;">Laravel</span>
 </div>
+
+<!-- MySQL -->
 <div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
   <span style="color: #4B0082; font-weight: bold;">MySQL</span>
 </div>
+
+<!-- Apache -->
 <div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
   <span style="color: #4B0082; font-weight: bold;">Apache</span>
 </div>
+
+<!-- Bash -->
 <div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
   <span style="color: #4B0082; font-weight: bold;">Bash</span>
 </div>
+
+<!-- Docker -->
 <div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
   <span style="color: #4B0082; font-weight: bold;">Docker</span>
 </div>
+
+<!-- Postman -->
 <div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
   <span style="color: #4B0082; font-weight: bold;">Postman</span>
 </div>
-
 
 
 # About Me:
