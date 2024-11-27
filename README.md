@@ -1,17 +1,17 @@
 # Tech Stack:
 <div align="center">
-  <!-- Top row of the circle -->
+  <!-- First row: top of the circle -->
   <span>![CSS3](https://img.shields.io/badge/css3-%234B0082.svg?style=for-the-badge&logo=css3&logoColor=white)</span>
   <span>![HTML5](https://img.shields.io/badge/html5-%234B0082.svg?style=for-the-badge&logo=html5&logoColor=white)</span>
   <span>![Java](https://img.shields.io/badge/java-%234B0082.svg?style=for-the-badge&logo=openjdk&logoColor=white)</span>
 
-  <!-- Middle row of the circle -->
+  <!-- Second row: middle of the circle -->
   <br/>
   <span>![PHP](https://img.shields.io/badge/php-%234B0082.svg?style=for-the-badge&logo=php&logoColor=white)</span>
   <span>![Python](https://img.shields.io/badge/python-4B0082?style=for-the-badge&logo=python&logoColor=ffdd54)</span>
   <span>![Bash Script](https://img.shields.io/badge/bash_script-%234B0082.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</span>
 
-  <!-- Bottom row of the circle -->
+  <!-- Third row: bottom of the circle -->
   <br/>
   <span>![Laravel](https://img.shields.io/badge/laravel-%234B0082.svg?style=for-the-badge&logo=laravel&logoColor=white)</span>
   <span>![Apache](https://img.shields.io/badge/apache-%234B0082.svg?style=for-the-badge&logo=apache&logoColor=white)</span>
