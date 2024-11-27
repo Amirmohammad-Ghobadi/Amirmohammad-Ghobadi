@@ -1,38 +1,18 @@
-# Tech Stack (Circular Arrangement)
-
-<!-- Outer Circle -->
-
-<!-- Top-Left -->
-![PHP](https://img.shields.io/badge/PHP-%234B0082?style=for-the-badge&logo=php&logoColor=white)
-
-<!-- Top-Middle -->
-![SQLite](https://img.shields.io/badge/SQLite-%234B0082?style=for-the-badge&logo=sqlite&logoColor=white)
-
-<!-- Top-Right -->
-![Python](https://img.shields.io/badge/Python-%234B0082?style=for-the-badge&logo=python&logoColor=white)
-
-<!-- Bottom-Right -->
-![Java](https://img.shields.io/badge/Java-%234B0082?style=for-the-badge&logo=openjdk&logoColor=white)
-
-<!-- Bottom-Middle -->
-![Laravel](https://img.shields.io/badge/Laravel-%234B0082?style=for-the-badge&logo=laravel&logoColor=white)
-
-<!-- Bottom-Left -->
-![MySQL](https://img.shields.io/badge/MySQL-%234B0082?style=for-the-badge&logo=mysql&logoColor=white)
-
-<!-- Inner Circle (More central badges) -->
-
-<!-- Center -->
-![Apache](https://img.shields.io/badge/Apache-%234B0082?style=for-the-badge&logo=apache&logoColor=white)
-
-<!-- Above center -->
-![Bash](https://img.shields.io/badge/Bash-%234B0082?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-<!-- Below center -->
-![Docker](https://img.shields.io/badge/Docker-%234B0082?style=for-the-badge&logo=docker&logoColor=white)
-
-<!-- In the middle of the circles -->
-![Postman](https://img.shields.io/badge/Postman-%234B0082?style=for-the-badge&logo=postman&logoColor=white)
+# Tech Stack:
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; width: 300px; height: 300px; position: relative;">
+    <img src="https://img.shields.io/badge/css3-%234B0082.svg?style=for-the-badge&logo=css3&logoColor=white" style="position: absolute; top: 0%; left: 50%; transform: translateX(-50%);">
+    <img src="https://img.shields.io/badge/html5-%234B0082.svg?style=for-the-badge&logo=html5&logoColor=white" style="position: absolute; top: 20%; left: 80%; transform: translateX(-50%);">
+    <img src="https://img.shields.io/badge/java-%234B0082.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="position: absolute; top: 50%; left: 100%; transform: translateX(-50%);">
+    <img src="https://img.shields.io/badge/php-%234B0082.svg?style=for-the-badge&logo=php&logoColor=white" style="position: absolute; top: 80%; left: 80%; transform: translateX(-50%);">
+    <img src="https://img.shields.io/badge/python-4B0082?style=for-the-badge&logo=python&logoColor=ffdd54" style="position: absolute; top: 100%; left: 50%; transform: translateX(-50%);">
+    <img src="https://img.shields.io/badge/bash_script-%234B0082.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" style="position: absolute; top: 80%; left: 20%; transform: translateX(-50%);">
+    <img src="https://img.shields.io/badge/laravel-%234B0082.svg?style=for-the-badge&logo=laravel&logoColor=white" style="position: absolute; top: 50%; left: 0%; transform: translateX(-50%);">
+    <img src="https://img.shields.io/badge/apache-%234B0082.svg?style=for-the-badge&logo=apache&logoColor=white" style="position: absolute; top: 20%; left: 20%; transform: translateX(-50%);">
+    <img src="https://img.shields.io/badge/mysql-4B0082.svg?style=for-the-badge&logo=mysql&logoColor=white" style="position: absolute; top: 0%; left: 50%; transform: translateX(-50%);">
+    <img src="https://img.shields.io/badge/sqlite-%234B0082.svg?style=for-the-badge&logo=sqlite&logoColor=white" style="position: absolute; top: 20%; left: 20%; transform: translateX(-50%);">
+  </div>
+</div>
 
 # About Me:
 I am currently working on website back-end development<br><br>interested in algorithm concepts, database structure, team working<br><br>fun fact about me: a back-end developer that loves website front-end development
@@ -43,7 +23,7 @@ I am currently working on website back-end development<br><br>interested in algo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirmohammad-Ghobadi&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/#instagram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/#linkedin) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/#qoura) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/#instagram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/#linkedin) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/#qoura)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Amirmohammad-Ghobadi&icon=0&color=0)](https://visitcount.itsvg.in)
