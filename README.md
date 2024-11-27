@@ -1,4 +1,5 @@
 # Tech Stack:
+<<<<<<< HEAD
 ![CSS3](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true | width=50)
 ![HTML5](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true | width=50)
 ![Java](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true | width=50)
@@ -14,6 +15,23 @@
 ![Adobe Premiere Pro](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true | width=50)
 ![Docker](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true | width=50)
 ![Postman](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true | width=50)
+=======
+![CSS3](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true)
+![HTML5](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true)
+![Java](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true)
+![PHP](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true)
+![Python](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true)
+![Bash Script](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true)
+![Laravel](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true)
+![Apache](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true)
+![MySQL](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true)
+![SQLite](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true)
+![Adobe Acrobat Reader](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true)
+![Adobe Photoshop](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true)
+![Adobe Premiere Pro](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true)
+![Docker](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true)
+![Postman](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true)
+>>>>>>> d205ca455f8339a91f5164976315379b35c96c80
 
 # About Me:
 I am currently working on website back-end development<br><br>interested in algorithm concepts, database structure, team working<br><br>fun fact about me: a back-end developer that loves website front-end development
