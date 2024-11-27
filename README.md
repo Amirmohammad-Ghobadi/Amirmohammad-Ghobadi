@@ -1,22 +1,13 @@
 # Tech Stack:
-<div align="center">
-  <!-- First row: top of the circle -->
-  <span>![CSS3](https://img.shields.io/badge/css3-%234B0082.svg?style=for-the-badge&logo=css3&logoColor=white)</span>
-  <span>![HTML5](https://img.shields.io/badge/html5-%234B0082.svg?style=for-the-badge&logo=html5&logoColor=white)</span>
-  <span>![Java](https://img.shields.io/badge/java-%234B0082.svg?style=for-the-badge&logo=openjdk&logoColor=white)</span>
 
-  <!-- Second row: middle of the circle -->
-  <br/>
-  <span>![PHP](https://img.shields.io/badge/php-%234B0082.svg?style=for-the-badge&logo=php&logoColor=white)</span>
-  <span>![Python](https://img.shields.io/badge/python-4B0082?style=for-the-badge&logo=python&logoColor=ffdd54)</span>
-  <span>![Bash Script](https://img.shields.io/badge/bash_script-%234B0082.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</span>
+<!-- Row 1: top of the circle -->
+![CSS3](https://img.shields.io/badge/css3-%234B0082.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%234B0082.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%234B0082.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-  <!-- Third row: bottom of the circle -->
-  <br/>
-  <span>![Laravel](https://img.shields.io/badge/laravel-%234B0082.svg?style=for-the-badge&logo=laravel&logoColor=white)</span>
-  <span>![Apache](https://img.shields.io/badge/apache-%234B0082.svg?style=for-the-badge&logo=apache&logoColor=white)</span>
-  <span>![MySQL](https://img.shields.io/badge/mysql-4B0082.svg?style=for-the-badge&logo=mysql&logoColor=white)</span>
-</div>
+<!-- Row 2: middle of the circle -->
+![PHP](https://img.shields.io/badge/php-%234B0082.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-4B0082?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%234B0082.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+<!-- Row 3: bottom of the circle -->
+![Laravel](https://img.shields.io/badge/laravel-%234B0082.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%234B0082.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4B0082.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # About Me:
 I am currently working on website back-end development<br><br>interested in algorithm concepts, database structure, team working<br><br>fun fact about me: a back-end developer that loves website front-end development
