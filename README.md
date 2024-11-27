@@ -10,7 +10,7 @@
 ![Laravel](https://img.shields.io/badge/laravel-%234B0082.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%234B0082.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4B0082.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # About Me:
-<pre>I am currently working on website back-end development
+<prestyle="font-family: 'Segoe UI', sans-serif;">I am currently working on website back-end development
             interested in algorithm concepts, database structure, team working
                 fun fact about me: a back-end developer that loves website front-end development</pre>
 
