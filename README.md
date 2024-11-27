@@ -1,19 +1,18 @@
 # Tech Stack:
-![CSS3](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true | width=50)
-![HTML5](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true | width=50)
-![Java](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true | width=50)
-![PHP](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true | width=50)
-![Python](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true | width=50)
-![Bash Script](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true | width=50)
-![Laravel](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true | width=50)
-![Apache](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true | width=50)
-![MySQL](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true | width=50)
-![SQLite](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true | width=50)
-![Adobe Acrobat Reader](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true | width=50)
-![Adobe Photoshop](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true | width=50)
-![Adobe Premiere Pro](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true | width=50)
-![Docker](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true | width=50)
-![Postman](https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true | width=50)
+<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
+<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
+<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
+<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
+<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
+<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
+<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
+<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
+<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
+<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
+<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
+<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
+<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
+<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
 
 # About Me:
 I am currently working on website back-end development<br><br>interested in algorithm concepts, database structure, team working<br><br>fun fact about me: a back-end developer that loves website front-end development
