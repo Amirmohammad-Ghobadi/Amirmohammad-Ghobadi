@@ -15,8 +15,8 @@
                 fun fact about me: a back-end developer that loves website front-end development</pre>
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Amirmohammad-Ghobadi&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Amirmohammad-Ghobadi&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Amirmohammad-Ghobadi&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirmohammad-Ghobadi&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Socials:
