@@ -1,54 +1,34 @@
 # Tech Stack:
 
 <!-- PHP -->
-<div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
-  <span style="color: #4B0082; font-weight: bold;">PHP</span>
-</div>
+![PHP](https://img.shields.io/badge/PHP-%234B0082?style=for-the-badge&logo=php&logoColor=white)
 
 <!-- SQLite -->
-<div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
-  <span style="color: #4B0082; font-weight: bold;">SQLite</span>
-</div>
+![SQLite](https://img.shields.io/badge/SQLite-%234B0082?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <!-- Python -->
-<div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
-  <span style="color: #4B0082; font-weight: bold;">Python</span>
-</div>
+![Python](https://img.shields.io/badge/Python-%234B0082?style=for-the-badge&logo=python&logoColor=white)
 
 <!-- Java -->
-<div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
-  <span style="color: #4B0082; font-weight: bold;">Java</span>
-</div>
+![Java](https://img.shields.io/badge/Java-%234B0082?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <!-- Laravel -->
-<div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
-  <span style="color: #4B0082; font-weight: bold;">Laravel</span>
-</div>
+![Laravel](https://img.shields.io/badge/Laravel-%234B0082?style=for-the-badge&logo=laravel&logoColor=white)
 
 <!-- MySQL -->
-<div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
-  <span style="color: #4B0082; font-weight: bold;">MySQL</span>
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-%234B0082?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!-- Apache -->
-<div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
-  <span style="color: #4B0082; font-weight: bold;">Apache</span>
-</div>
+![Apache](https://img.shields.io/badge/Apache-%234B0082?style=for-the-badge&logo=apache&logoColor=white)
 
 <!-- Bash -->
-<div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
-  <span style="color: #4B0082; font-weight: bold;">Bash</span>
-</div>
+![Bash](https://img.shields.io/badge/Bash-%234B0082?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <!-- Docker -->
-<div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
-  <span style="color: #4B0082; font-weight: bold;">Docker</span>
-</div>
+![Docker](https://img.shields.io/badge/Docker-%234B0082?style=for-the-badge&logo=docker&logoColor=white)
 
 <!-- Postman -->
-<div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
-  <span style="color: #4B0082; font-weight: bold;">Postman</span>
-</div>
+![Postman](https://img.shields.io/badge/Postman-%234B0082?style=for-the-badge&logo=postman&logoColor=white)
 
 
 # About Me:
