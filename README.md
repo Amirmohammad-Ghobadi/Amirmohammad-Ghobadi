@@ -1,35 +1,38 @@
-# Tech Stack:
+# Tech Stack (Circular Arrangement)
 
-<!-- PHP -->
+<!-- Outer Circle -->
+
+<!-- Top-Left -->
 ![PHP](https://img.shields.io/badge/PHP-%234B0082?style=for-the-badge&logo=php&logoColor=white)
 
-<!-- SQLite -->
+<!-- Top-Middle -->
 ![SQLite](https://img.shields.io/badge/SQLite-%234B0082?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<!-- Python -->
+<!-- Top-Right -->
 ![Python](https://img.shields.io/badge/Python-%234B0082?style=for-the-badge&logo=python&logoColor=white)
 
-<!-- Java -->
+<!-- Bottom-Right -->
 ![Java](https://img.shields.io/badge/Java-%234B0082?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<!-- Laravel -->
+<!-- Bottom-Middle -->
 ![Laravel](https://img.shields.io/badge/Laravel-%234B0082?style=for-the-badge&logo=laravel&logoColor=white)
 
-<!-- MySQL -->
+<!-- Bottom-Left -->
 ![MySQL](https://img.shields.io/badge/MySQL-%234B0082?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!-- Apache -->
+<!-- Inner Circle (More central badges) -->
+
+<!-- Center -->
 ![Apache](https://img.shields.io/badge/Apache-%234B0082?style=for-the-badge&logo=apache&logoColor=white)
 
-<!-- Bash -->
+<!-- Above center -->
 ![Bash](https://img.shields.io/badge/Bash-%234B0082?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<!-- Docker -->
+<!-- Below center -->
 ![Docker](https://img.shields.io/badge/Docker-%234B0082?style=for-the-badge&logo=docker&logoColor=white)
 
-<!-- Postman -->
+<!-- In the middle of the circles -->
 ![Postman](https://img.shields.io/badge/Postman-%234B0082?style=for-the-badge&logo=postman&logoColor=white)
-
 
 # About Me:
 I am currently working on website back-end development<br><br>interested in algorithm concepts, database structure, team working<br><br>fun fact about me: a back-end developer that loves website front-end development
