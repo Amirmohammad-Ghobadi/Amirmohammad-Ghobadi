@@ -1,18 +1,38 @@
 # Tech Stack:
-<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
-<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
-<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
-<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
-<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
-<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
-<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
-<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
-<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
-<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
-<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
-<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
-<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
-<img src="https://github.com/Amirmohammad-Ghobadi/Amirmohammad-Ghobadi/blob/main/src/Resources/white_oval.png?raw=true" width="50" />
+
+<!-- CSS and HTML code for each tech stack -->
+<div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
+  <span style="color: #4B0082; font-weight: bold;">PHP</span>
+</div>
+<div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
+  <span style="color: #4B0082; font-weight: bold;">SQLite</span>
+</div>
+<div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
+  <span style="color: #4B0082; font-weight: bold;">Python</span>
+</div>
+<div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
+  <span style="color: #4B0082; font-weight: bold;">Java</span>
+</div>
+<div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
+  <span style="color: #4B0082; font-weight: bold;">Laravel</span>
+</div>
+<div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
+  <span style="color: #4B0082; font-weight: bold;">MySQL</span>
+</div>
+<div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
+  <span style="color: #4B0082; font-weight: bold;">Apache</span>
+</div>
+<div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
+  <span style="color: #4B0082; font-weight: bold;">Bash</span>
+</div>
+<div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
+  <span style="color: #4B0082; font-weight: bold;">Docker</span>
+</div>
+<div style="display: inline-flex; justify-content: center; align-items: center; background-color: white; border-radius: 50px; width: 100px; height: 50px; margin-right: 10px; border: 2px solid #4B0082;">
+  <span style="color: #4B0082; font-weight: bold;">Postman</span>
+</div>
+
+
 
 # About Me:
 I am currently working on website back-end development<br><br>interested in algorithm concepts, database structure, team working<br><br>fun fact about me: a back-end developer that loves website front-end development
