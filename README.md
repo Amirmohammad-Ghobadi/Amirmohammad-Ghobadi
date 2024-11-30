@@ -10,8 +10,10 @@
 ![Laravel](https://img.shields.io/badge/laravel-%234B0082.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%234B0082.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4B0082.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # About Me:
-<pre>A Back-End Developer focused on building efficient, scalable server-side applications. Currently working on website back-end development with PHP, Java, Bash, and Laravel. Passionate about algorithms, database structure, and writing clean, reliable code, with an emphasis on MySQL optimization. GitHub is used for version control and collaborating with teams, though cloud platforms aren’t part of the stack.
-
+<pre>A Back-End Developer focused on building efficient, scalable server-side applications. Currently working on
+  website back-end development with PHP, Java, Bash, and Laravel. Passionate about algorithms, database structure,
+  and writing clean, reliable code, with an emphasis on MySQL optimization.
+  GitHub is used for version control and collaborating with teams, though cloud platforms aren’t part of the stack.
 Fun fact about me: a back-end dev who likes front-end work too!
 
 Looking for someone who can build strong back-end systems and collaborate effectively? Let’s connect!</pre>
